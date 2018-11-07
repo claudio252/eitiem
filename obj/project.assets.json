@@ -4731,11 +4731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\claudio cuellar\\Documents\\Visual Studio 2017\\Projects\\ErrorHandling\\ErrorHandling\\SMS Eitiem Notification.csproj",
-      "projectName": "SMS Eitiem Notification",
-      "projectPath": "C:\\Users\\claudio cuellar\\Documents\\Visual Studio 2017\\Projects\\ErrorHandling\\ErrorHandling\\SMS Eitiem Notification.csproj",
+      "projectUniqueName": "C:\\Users\\claudio cuellar\\Documents\\Visual Studio 2017\\Projects\\Eitiem\\Eitiem\\Eitiem.csproj",
+      "projectName": "Eitiem",
+      "projectPath": "C:\\Users\\claudio cuellar\\Documents\\Visual Studio 2017\\Projects\\Eitiem\\Eitiem\\Eitiem.csproj",
       "packagesPath": "C:\\Users\\claudio cuellar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\claudio cuellar\\Documents\\Visual Studio 2017\\Projects\\ErrorHandling\\ErrorHandling\\obj\\",
+      "outputPath": "C:\\Users\\claudio cuellar\\Documents\\Visual Studio 2017\\Projects\\Eitiem\\Eitiem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

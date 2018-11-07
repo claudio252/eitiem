@@ -1,10 +1,24 @@
 ﻿using System;
+using System.Runtime.Serialization;
 
-namespace Eitiem.Service
+namespace Eitiem
 {
-    class MalformedObjectData : Exception
+    [Serializable]
+    internal class MalformedObjectData : Exception
     {
         public MalformedObjectData()
+        {
+        }
+
+        public MalformedObjectData(string message) : base(message)
+        {
+        }
+
+        public MalformedObjectData(string message, Exception innerException) : base(message, innerException)
+        {
+        }
+
+        protected MalformedObjectData(SerializationInfo info, StreamingContext context) : base(info, context)
         {
         }
     }

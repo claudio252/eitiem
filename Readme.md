@@ -38,12 +38,12 @@ If already installed check if new version is available.
 
 Execute unit tests
 ```
-    cd "ErrorHandling/test/ErrorHandling.Tests"
+    cd "Eitiem/test/Eitiem.Tests"
     dotnet test
 ```
 
 Deploy function to AWS Lambda
 ```
-    cd "ErrorHandling/src/ErrorHandling"
+    cd "Eitiem/src/Eitiem"
     dotnet lambda deploy-function
 ```

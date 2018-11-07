@@ -13,7 +13,7 @@
     "function-runtime" : "dotnetcore2.1",
     "function-memory-size" : 256,
     "function-timeout"     : 30,
-    "function-handler"     : "Eitiem.Service::Eitiem.Service.Function::FunctionHandler",
+    "function-handler"     : "Eitiem::Eitiem.Function::FunctionHandler",
     "function-name"        : "eitiem-sms-service",
     "function-role"        : "arn:aws:iam::049203381231:role/lambda_exec_eitiem-sms-service",
     "tracing-mode"         : "PassThrough",

@@ -1,0 +1,11 @@
+C:\Users\claudio cuellar\Documents\Visual Studio 2017\Projects\ErrorHandling\ErrorHandling\bin\Debug\netcoreapp2.1\linux-x64\SMS Eitiem Notification.deps.json
+C:\Users\claudio cuellar\Documents\Visual Studio 2017\Projects\ErrorHandling\ErrorHandling\bin\Debug\netcoreapp2.1\linux-x64\SMS Eitiem Notification.runtimeconfig.json
+C:\Users\claudio cuellar\Documents\Visual Studio 2017\Projects\ErrorHandling\ErrorHandling\bin\Debug\netcoreapp2.1\linux-x64\SMS Eitiem Notification.runtimeconfig.dev.json
+C:\Users\claudio cuellar\Documents\Visual Studio 2017\Projects\ErrorHandling\ErrorHandling\bin\Debug\netcoreapp2.1\linux-x64\SMS Eitiem Notification.dll
+C:\Users\claudio cuellar\Documents\Visual Studio 2017\Projects\ErrorHandling\ErrorHandling\bin\Debug\netcoreapp2.1\linux-x64\SMS Eitiem Notification.pdb
+C:\Users\claudio cuellar\Documents\Visual Studio 2017\Projects\ErrorHandling\ErrorHandling\obj\Debug\netcoreapp2.1\linux-x64\SMS Eitiem Notification.csprojAssemblyReference.cache
+C:\Users\claudio cuellar\Documents\Visual Studio 2017\Projects\ErrorHandling\ErrorHandling\obj\Debug\netcoreapp2.1\linux-x64\SMS Eitiem Notification.csproj.CoreCompileInputs.cache
+C:\Users\claudio cuellar\Documents\Visual Studio 2017\Projects\ErrorHandling\ErrorHandling\obj\Debug\netcoreapp2.1\linux-x64\SMS Eitiem Notification.AssemblyInfoInputs.cache
+C:\Users\claudio cuellar\Documents\Visual Studio 2017\Projects\ErrorHandling\ErrorHandling\obj\Debug\netcoreapp2.1\linux-x64\SMS Eitiem Notification.AssemblyInfo.cs
+C:\Users\claudio cuellar\Documents\Visual Studio 2017\Projects\ErrorHandling\ErrorHandling\obj\Debug\netcoreapp2.1\linux-x64\SMS Eitiem Notification.dll
+C:\Users\claudio cuellar\Documents\Visual Studio 2017\Projects\ErrorHandling\ErrorHandling\obj\Debug\netcoreapp2.1\linux-x64\SMS Eitiem Notification.pdb
